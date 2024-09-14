@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949178542228",
+    "project_id": "push-notifications-fcd83",
+    "storage_bucket": "push-notifications-fcd83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949178542228:android:ace2754c827078e8712c81",
+        "android_client_info": {
+          "package_name": "com.faraz.push_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjHeHvTSWtqrSMwLrDCKCxmMJOnr1axYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
